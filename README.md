@@ -1,4 +1,5 @@
-# Export-Sales-Assessment
+# Export-Sales-Assessment ![Imergea](https://img.shields.io/badge/Website-Imergea.com-blue)
+
 
 IMERGEA aims to reshape Mergers & Acquisitions (M&A) and export strategy for SMEs with practical, founder-first tools — including the only Export Assessment Tool that reveals your blind spots in minutes.
 

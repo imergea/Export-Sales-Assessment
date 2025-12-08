@@ -1,3 +1,8 @@
+
+Built By IMERGEA IMERGEA is a tech-enabled boutique M&A and export strategy firm focused on empowering SMEs across Europe, Africa, LATAM, and emerging markets.
+
+🔗 Visit https://imergea.com 📩 info@imergea.com
+
 # Export-Sales-Assessment ![Imergea](https://img.shields.io/badge/Website-Imergea.com-blue)
 
 
